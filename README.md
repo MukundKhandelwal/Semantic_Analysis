@@ -1,12 +1,17 @@
 # Semantic Analysis of "iPhone 8" using Twitter.
 This project was a part of my coursework DS 501 (Introduction to Data Science).
+
+In this project, we made use of Twitter data to understand the consumer sentiments of iPhone 8 for different geographical markets and guide the timing and implementation of marketing strategies to convert the greatest number Neutral sentiments to Positive sentiments.
+
 # Contents: 
 The repository consists of:
 *	Data Files
 * Ipython Notebook
 * Technical Report
 * Power Point Presentation
-# Packages Used:
+
+# Programming Language/Packages Used:
+**Python**
 * nltk
 * pandas
 * matplotlib
@@ -24,6 +29,5 @@ The repository consists of:
 * Brandon Werner
 
 # Contact:
-
 mukundkhandelwal93@gmail.com
 
